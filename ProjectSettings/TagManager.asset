@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Water
+  - Flame
+  - Destroyer
+  - SM6
+  - SMtunomedio4
+  - SMtubofuera3
+  - SMTUBODEAFUERA2-14
+  - SMtubo medio2-15
+  - SMParte de adentrojunta7
+  - SM18
+  - SM17
+  - SM16
+  - SM13
+  - SM12
+  - SM11
+  - SM10
+  - SM9
+  - SM5
+  - SM2
+  - SM1
+  - Encajable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Teleport
+  - Water
+  - UI
+  - SoloDecoracion
+  - Expandida
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Frontal
+    uniqueID: 3848242651
+    locked: 0

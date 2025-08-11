@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/3/Escenas/Inicio.unity
+    guid: e6581c61db8ba02408db996a521e7f47
+  - enabled: 1
+    path: Assets/Scenes/3/Escenas/Laboratorio.unity
+    guid: a1fad57457e0cdf49b215b18dd3814cb
+  - enabled: 1
+    path: Assets/Scenes/3/Escenas/Laboratorio 222.unity
+    guid: 409a098d7e1ffd54bb36dd1a8fd38295
+  - enabled: 1
+    path: Assets/Scenes/3/Escenas/Laboratorio 333.unity
+    guid: 45af6a6fcadb66745b6974077947f7a5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7129b5fd198ee1a43a0c0165efd11bb3,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 8a7047c9f75c2304e9acf1610e54d542,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b4fcf135043a9f4695bda81a7725c07,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 892ab5829ee4da645a973176acc6e5a8,
+      type: 2}
